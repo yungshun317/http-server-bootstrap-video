@@ -1,0 +1,25 @@
+{
+  "name": "http-server-bootstrap-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yungshun317/http-server-bootstrap-video.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yungshun317/http-server-bootstrap-video/issues"
+  },
+  "homepage": "https://github.com/yungshun317/http-server-bootstrap-video#readme",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "node-static": "^0.7.11"
+  }
+}
